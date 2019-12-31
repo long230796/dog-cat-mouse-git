@@ -1,0 +1,22 @@
+// git commit
+
+git log
+git diff
+git show
+
+// working directory
+//staging area
+//git repository
+
+// git restore <file>
+// git reset
+
+// git chekout -b <branch> branching
+// git checkout <branh>
+// git merge	
+A <--- B
+
+master <----- new/dog-class
+git checkout A
+git merge B
+
